@@ -1,1 +1,1 @@
-# javascript_01
+# JavaScript_01
